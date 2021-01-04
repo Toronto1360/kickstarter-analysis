@@ -33,7 +33,7 @@ it includes some outliers that may cause some problem in for visualizations.
 - What are some other possible tables and/or graphs that we could create?
 I would look into the blurbs to find potential notes that yields to a successful campagn
 
-Images can be added with the following syntax: ![image_name](/Users/nima/Dropbox/My Mac (Nima’s MacBook Pro (2))/Desktop/DATA BOOTCAMP/Crowdfunding analysis/Resources/Chart1.png).
+Images can be added with the following syntax: ![image_name](/Users/nima/Dropbox/My Mac Nima’s MacBook Pro (2)/Desktop/Chart1.png).
 
 
 
